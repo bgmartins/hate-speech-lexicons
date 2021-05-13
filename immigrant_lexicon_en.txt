@@ -7,9 +7,7 @@ emigrant
 spanish
 french
 gallic
-farmer
 foreign
-tourist
 illegal
 undocumented
 immigrant
@@ -23,22 +21,17 @@ migrant
 migratory
 muslim
 half blood
-mixed race
+honduran
 latin
-mulatto
 baboon
 transmigrant
 expatriate
 refugee
 central american
-galician
 gringo
-black
-negro
 yankee
 brazilian
 chilean
-colombian
 ecuadorian
 paraguayan
 peruvian
@@ -52,7 +45,6 @@ bolivian
 barbaric
 birin
 barbarously
-peasant
 tike
 tyke
 ceorle
@@ -61,7 +53,6 @@ churls
 goth
 barbarian
 barberian
-terrone
 the karls
 barbarous
 genoese
@@ -71,5 +62,9 @@ peasant
 barbarically
 barbarians
 boor
-genoan
-genovese
+guatemalan
+mexican
+salvadorean
+nicaraguan
+cuban
+alien
